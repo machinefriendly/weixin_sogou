@@ -169,3 +169,6 @@ if __name__ == '__main__':
     print(parse_essay('http://mp.weixin.qq.com/s?__biz=MjM5NjM4OTAyMA==&mid=205212599&idx=4&sn=6a1de7a7532ba0bcbc633c253b61916f&3rd=MzA3MDU4NTYzMw==&scene=6#rd'))
     t3 = time.time()
     print(t1-t0, t2-t1, t3-t2)
+    
+# try update git
+
